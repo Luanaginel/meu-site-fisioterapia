@@ -1,5 +1,7 @@
 # meu-site-fisioterapia
 Site criado com o proposito de levar qualidade de vida para aqueles que por ela buscam.
+# meu-site-fisioterapia
+Site criado com o proposito de levar qualidade de vida para aqueles que por ela buscam.
 <!DOCTYPE html>
 <html lang="pt">
 <head>
@@ -67,13 +69,11 @@ Site criado com o proposito de levar qualidade de vida para aqueles que por ela 
   <section id="inicio">
     <h2>Bem-vindo ao meu site!</h2>
     <p>Ajudo trabalhadores em regime de home office a melhorarem a postura, prevenirem dores e viverem com mais bem-estar através de pilates, ergonomia e ginástica laboral online.</p>
-    <img src="https://images.unsplash.com/photo-1591696205602-2f950c417cb9" alt="Pessoa feliz no escritório">
   </section>
 
   <section id="sobre">
     <h2>Sobre Mim</h2>
-    <p>Sou fisioterapeuta especializada em ergonomia, pilates e saúde ocupacional. Ofereço mentorias e programas online de prevenção de dores e correção postural para profissionais que trabalham em casa.</p>
-    <img src="https://images.unsplash.com/photo-1588776814546-ec7c7f91a09e" alt="Mulher a trabalhar confortável em home office">
+    <p>Sou fisioterapeuta especializada em ergonomia, pilates e saúde ocupacional. Ofereço mentorias e programas online de prevenção de dores e correção postural para profissionais que trabalham em casa ou em escritório.</p>
   </section>
 
   <section id="servicos">
@@ -84,7 +84,6 @@ Site criado com o proposito de levar qualidade de vida para aqueles que por ela 
       <li>Ginástica laboral personalizada à distância</li>
       <li>Avaliação postural individual online</li>
     </ul>
-    <img src="https://images.unsplash.com/photo-1605296867304-46d5465a13f1" alt="Ginástica laboral no trabalho">
   </section>
 
   <section id="contacto">
